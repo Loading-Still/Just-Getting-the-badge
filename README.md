@@ -2,7 +2,7 @@
 This is a documentation of how to get the badges in github.
 
 ## Features
-Absolutely nothing it makes you look cool and smarter but you didn't finish the last project you started, and now you are somw how here donig a side quest to get the badges.
+Absolutely nothing it makes you look cool and smarter but you didn't finish the last project you started, and now you are some how here donig a side quest to get the badges.
 ## Quickdraw Badge
 
 To get this bages follow these steps.
