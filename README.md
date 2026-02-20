@@ -1,4 +1,4 @@
-# Just-Getting-the-badges
+# Just Getting the badges
 This is a documentation of how to get the badges in github.
 
 ## Features
