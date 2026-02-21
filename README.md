@@ -43,10 +43,21 @@ You need to download Github desktop, after installation login with your main acc
 - Give it any name like "main2"
 - Create branch ⇒ Bring my changes to "main2" ⇒ Switch branch
 - On bottom left add the collaborator ⇒ commit to "main2"
-- In the center Puch origin
+- In the centre Puch origin
 - On the browser there is an option to compare & pull request (accept it)
 
-(You have to see to avaters of the two acount in the bottom then there is something wrong)  
-- Creat pull request and merge it
+(You have to see to avatars of the two accounts in the bottom then there is something wrong)  
+- Create pull request and merge it
 
-Now you got your fourth badge
+Now you got your fourth badge.
+
+## Stars Starstruck
+To get it you must get at least 16 stars on the repository that you make. 
+or you can make bots to give you stars.
+
+## Public Sponsor
+By just sponsoring someone or an organization on github, Monthly or one-time donation. 
+
+## Galaxy Brain
+Go to github community in question answer as many questions as you can, but make sure it is helpful.
+If the answers get accepted, you will get the badge.
