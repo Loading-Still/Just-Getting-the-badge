@@ -20,7 +20,7 @@ Go in any repository that you have and edit any file or the main repo, but commi
 - Merge the pull request ⇒ Confirm merge
 - Do the same process ones more
 
-Congratulates you got the badge
+Congratulates you got the badge.
 
 ## Yolo 
 If you ever get into a collaboration with others on a project you will get this badge, but if you work alone most of the time you will have to make another account to get it.
