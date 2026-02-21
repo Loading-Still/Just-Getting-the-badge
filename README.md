@@ -59,5 +59,5 @@ or you can make bots to give you stars.
 By just sponsoring someone or an organization on github, Monthly or one-time donation. 
 
 ## Galaxy Brain
-Go to github community in question answer as many questions as you can, but make sure it is helpful.
+Go to [github community](https://github.com/orgs/community/discussions) in the discussions answer as many questions as you can at lest 2 , but make sure it is helpful.
 If the answers get accepted, you will get the badge.
