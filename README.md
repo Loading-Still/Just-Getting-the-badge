@@ -7,9 +7,9 @@ Absolutely nothing it makes you look cool and smarter but you didn't finish the 
 
 To get this bages follow these steps.
 
-- Creat a new repositorie.
-- Make new issue on the repo.
-- Then close the issue in less than five minutes.
+- Creat a new repositorie
+- Make new issue on the repo
+- Then close the issue in less than five minutes
 
 you may have done that by accident, sense some time you spot an issue then it was easy to fix or you just thought it was any issue but it wasn't.
 
