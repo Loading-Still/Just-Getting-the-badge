@@ -37,7 +37,7 @@ Congratulations, now you have 3 badges.
 
 ## Pair Extraordinaire
 You need to download Github desktop, after installation login with your main account, then clone the repository that you have be using. (Make sure to remember where it is)
- - Open it in any text editor (VScode)
+- Open it in any text editor (VScode) <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd> as a short cut
 - Make any change then save it.
 - Select the main branch then add a new branch.
 - Give it any name like "main2"
