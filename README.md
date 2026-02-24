@@ -18,7 +18,7 @@ you may have done that by accident, sense some time you spot an issue then it wa
 Go in any repository that you have and edit any file or the main repo, but commit changes in a new branch.
 - Creat a pull request (then give it some time)
 - Merge the pull request ⇒ Confirm merge
-- Do the same process ones more
+- Do the same process ones more time
 
 Congratulates you got the badge.
 
