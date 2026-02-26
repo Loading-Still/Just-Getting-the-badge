@@ -61,3 +61,6 @@ By just sponsoring someone or an organization on github, Monthly or one-time don
 ## Galaxy Brain
 Go to [github community](https://github.com/orgs/community/discussions) in the discussions answer as many questions as you can at lest 2 , but make sure it is helpful.
 If the answers get accepted, you will get the badge.
+
+## Badge tier 
+There is a tier for the bages that you have, the more you get the them they change color from Bronze to gold.
